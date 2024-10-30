@@ -6,7 +6,7 @@ Magisk Module that injects the MITMProxy CA Certificate as a System Certificate 
 - A rooted Android device with Magisk installed
 
 ### Installation
-1. Download the latest release from the [Releases Page]()
+1. Download [TrustMITMProxyMagiskModule.zip from the latest release on the Releases Page](https://github.com/RaulSofia/TrustMITMProxy/releases/latest)
 2. Install the module using the Magisk Manager app (Modules -> Install from storage -> Select the downloaded zip file)
 3. Reboot your device
 4. Done! You can check if the certificate was installed by going to Settings -> Security -> Encryption & credentials -> Trusted credentials -> System, and looking for the `mitmproxy` certificate
