@@ -1,5 +1,5 @@
 # TrustMITMProxy
-Magisk Module that injects the MITMProxy CA Certificate as a System Certificate on Android (14 included), using the method described in [this HTTPToolKit's blog post](https://httptoolkit.com/blog/android-14-install-system-ca-certificate/#option-1-bind-mounting-through-ns-enter).
+Magisk Module that injects the MITMProxy CA Certificate as a System Certificate on Android (14 included), using the method described in [this HTTPToolKit's blog post](https://httptoolkit.com/blog/android-14-install-system-ca-certificate/#option-1-bind-mounting-through-ns-enter). Allows apps' HTTPS traffic to be intercepted and inspected by MITMProxy, instead of only the browser's.
 
 ## Installation and Usage
 ### Prerequisites
