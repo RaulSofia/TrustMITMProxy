@@ -1,0 +1,6 @@
+id=trust_mitmproxy_cacert
+name=MITMProxy CA Cert Injection
+version=1.0
+versionCode=1
+author=Raul Sofia
+description=Automatically injects mitmproxy CA cert on boot for HTTPS interception.
